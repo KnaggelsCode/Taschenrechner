@@ -3,7 +3,7 @@
     "background_color": "#3a4452",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "taschenrechner.html",
+    "start_url": "index.html",
     "name": "Taschenrechnuhrr",
     "short_name": "Taschenrechnuhrr",
     "description": "Ein Taschenrechner yuur",
